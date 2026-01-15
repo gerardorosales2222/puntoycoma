@@ -1,4 +1,3 @@
-```markdown
 # GestureDetector Demo en Flutter
 
 Este proyecto es un ejemplo **simple y limpio** para mostrar cómo utilizar el widget [`GestureDetector`](https://api.flutter.dev/flutter/widgets/GestureDetector-class.html) en Flutter, específicamente su variante **`onTap`**.
