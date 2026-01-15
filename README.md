@@ -74,7 +74,3 @@ class MyApp extends StatelessWidget {
 
 ✨ Este repositorio está pensado como un recurso introductorio: directo, claro y fácil de ampliar para quienes quieran explorar más gestos en Flutter.
 ```
-
----
-
-¿Quieres que además te prepare una **sección de ejercicios sugeridos** en el README (por ejemplo: cambiar el color al tocar, mostrar un `SnackBar`, etc.) para que tus estudiantes puedan experimentar más allá del ejemplo inicial?
