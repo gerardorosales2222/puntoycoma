@@ -1,7 +1,3 @@
-Perfecto, Gerardo. Te preparo un **README.md** claro, didáctico y minimalista, que acompañe tu proyecto en Flutter y resalte el uso de `GestureDetector` con `onTap`. Aquí tienes una propuesta:  
-
----
-
 ```markdown
 # GestureDetector Demo en Flutter
 
